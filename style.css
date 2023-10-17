@@ -10,7 +10,9 @@ html {
 body {
     font-size: 1.6rem;
     margin: 50px 100px;
+    line-height: 2.5rem;
   }
+  
 
 h1, h2, h3, nav {
     font-family: 'Open Sans', sans-serif;
@@ -38,6 +40,8 @@ nav a {
 header {
     border-bottom: 1px solid lightgrey;
 }
+
+
 
 /* Image */
 figure {
