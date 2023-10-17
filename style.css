@@ -16,6 +16,12 @@ h1, h2, h3, nav {
     font-family: 'Open Sans', sans-serif;
 }
 
+h2 {
+    font-size: 1.8rem;
+    color: grey;
+    font-weight: 400;
+}
+
 /* Navigation */
 nav {
     text-align: right;
@@ -37,4 +43,10 @@ header {
 figure {
     text-align: center;
     padding: 30px 0 40px 0;
+}
+
+/* Test Results Section */
+
+.testing {
+
 }
