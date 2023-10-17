@@ -50,13 +50,14 @@ figure {
 /* Test Results Section */
 .testing {
     border: 1px solid lightgrey;
-    padding: 15px;
+    padding: 20px
 }
 
 /* Style links in Test Results Section */
 .testing a {
     color: white;
     font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
     text-decoration: none;
 }
 
