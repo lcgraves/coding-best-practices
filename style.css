@@ -20,6 +20,7 @@ nav {
 nav a {
     display: inline-block;
     padding: 0 10px;
+    text-decoration: none; /* removes underline from anchor links --> sourced code from: https://www.freecodecamp.org/news/remove-underline-from-link-in-css/ */
 }
 
 h1, h2, h3, nav {
