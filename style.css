@@ -65,9 +65,10 @@ div {
     display: inline-block;
     background-color: darkorange;
     text-align: center;
-    font-family: 'Open Sans', sans-serif;
     padding: 15px 0;
     width: 225px;
     border-radius: 10px;
     margin: 15px 15px 15px 20px;
 }
+
+/* Footer */
